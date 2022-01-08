@@ -1,0 +1,28 @@
+.contact-info {
+    background-image: url(./images/paralax-1.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: #0000008c;
+    padding: 5rem 0;
+    margin-top: 2rem;
+    line-height: 2;
+}
+
+.contact-address {
+    border: 1px solid #ededa3;
+}
+
+.contact-address .heading {
+    margin-bottom: 2rem;
+}
+
+.contact-address li span {
+    margin-left: .5rem;
+}
+
+.contact-address a {
+    color: #ededa3;
+}

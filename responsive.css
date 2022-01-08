@@ -1,0 +1,11 @@
+@media screen and (max-width: 576px) {
+    .navbar {
+        background: rgba(2, 2, 2, 0.9);
+    }
+
+    .slider-heading {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+}
